@@ -1,0 +1,5 @@
+lib/dsp.h: function for DSP
+lib/dspIO.h: interface among DSP functionalities and devices
+lib/ptask.h: periodic task management
+lib/root.h: parent library
+lib/synctask.h: support for creation, synchronization and cancellation of tasks
