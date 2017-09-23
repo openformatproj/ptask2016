@@ -1,5 +1,5 @@
 # ptask.h
-This library allows the management of periodic tasks under VxWorks, by provifing a POSIX-like interface.
+This library allows the management of periodic tasks under VxWorks, by providing a POSIX-like interface.
 
 ## Documentation
 https://goo.gl/gxU1Mm
