@@ -1,3 +1,5 @@
+ptask2016
+
 This library allows the management of periodic tasks under VxWorks, by providing a POSIX-like interface.
 
 Documentation
@@ -10,8 +12,6 @@ ptask2016: project folder
 ptask2016/lib: C libraries for Wind River Workbench
 
 Folder structure of Workbench workspace:
-
-----------------------------------------------
 
 /workspace
 	/.metadata
