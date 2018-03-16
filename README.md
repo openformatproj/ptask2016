@@ -7,9 +7,8 @@ https://goo.gl/gxU1Mm
 ## Folders
 ptask2016: project folder
 ptask2016/lib: C libraries for Wind River Workbench
-
 Folder structure of Workbench workspace:
-
+```
 /workspace
 	/.metadata
 		...
@@ -40,3 +39,4 @@ Folder structure of Workbench workspace:
 		...
 	spectrum.txt
 	wave.txt
+```
