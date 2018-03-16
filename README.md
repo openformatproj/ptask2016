@@ -5,8 +5,9 @@ This library allows the management of periodic tasks under VxWorks, by providing
 https://goo.gl/gxU1Mm
 
 ## Folders
-ptask2016: project folder
-ptask2016/lib: C libraries for Wind River Workbench
+* ptask2016: project folder
+* ptask2016/lib: C libraries for Wind River Workbench
+
 Folder structure of Workbench workspace:
 ```
 /workspace
